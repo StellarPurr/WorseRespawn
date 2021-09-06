@@ -1,0 +1,3 @@
+displayName = Worse Respawn
+author = Gerongfenh
+version = 0.1
